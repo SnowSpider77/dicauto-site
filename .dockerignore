@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.gitignore
+*.md
+AGENTS.md
+CLAUDE.md
+reference
+.cursor
+Dockerfile
+docker-compose.yml
+.dockerignore
