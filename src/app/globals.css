@@ -30,13 +30,13 @@ html {
 }
 
 body {
-  background: #111111;
-  color: #111111;
+  background: #222222;
+  color: #222222;
   font-family: var(--font-montserrat), Helvetica, sans-serif;
 }
 
 ::selection {
-  background: #e20000;
+  background: #9a0808;
   color: #ffffff;
 }
 
